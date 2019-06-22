@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/icss/biz/ExamBiz.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/icss/controller/student/CheckPwdSvl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/icss/controller/student/CheckScoreSvl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/icss/controller/student/ChoosePaperSvl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/icss/controller/student/EditPwdSvl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/icss/controller/student/PersonInfoSvl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/icss/controller/student/ScoreinfoSvl.java" charset="GBK" />
+  </component>
+</project>
